@@ -2,18 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jasonli0012.github.io/tags/</loc>
+    <loc>http://jasonli0012.github.io/project/</loc>
     
-    <lastmod>2023-03-28</lastmod>
+    <lastmod>2023-03-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://jasonli0012.github.io/categories/</loc>
+    <loc>http://jasonli0012.github.io/info/</loc>
     
-    <lastmod>2023-03-28</lastmod>
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/life/read/</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/life/think/</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/note/code/</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/note/learn/</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/note/math/</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/note/control/</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/life/read/first</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/life/think/first</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/note/learn/first</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/note/code/first</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/note/math/first</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/note/control/first</loc>
+    
+    <lastmod>2023-03-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
