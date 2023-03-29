@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>http://jasonli0012.github.io/life/think/</loc>
-    
-    <lastmod>2023-03-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://jasonli0012.github.io/life/read/</loc>
     
     <lastmod>2023-03-29</lastmod>
@@ -48,6 +39,15 @@
   
   <url>
     <loc>http://jasonli0012.github.io/note/control/</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/life/think/</loc>
     
     <lastmod>2023-03-29</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://jasonli0012.github.io/life/think/first</loc>
+    <loc>http://jasonli0012.github.io/note/code/first</loc>
     
     <lastmod>2023-03-29</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://jasonli0012.github.io/note/code/first</loc>
+    <loc>http://jasonli0012.github.io/life/think/first</loc>
     
     <lastmod>2023-03-29</lastmod>
     
