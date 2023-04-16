@@ -6,12 +6,12 @@ http://jasonli0012.github.io/categories/
 http://jasonli0012.github.io/tags/
 http://jasonli0012.github.io/info/
 http://jasonli0012.github.io/
-http://jasonli0012.github.io/tags/RL/
 http://jasonli0012.github.io/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BF%E7%9C%9F/
 http://jasonli0012.github.io/tags/Webots/
 http://jasonli0012.github.io/tags/%E6%97%8B%E8%BD%AC%E8%A1%A8%E7%A4%BA%E6%B3%95/
 http://jasonli0012.github.io/tags/%E6%95%B0%E5%AD%A6/
 http://jasonli0012.github.io/tags/%E7%BE%A4%E8%AE%BA/
+http://jasonli0012.github.io/tags/RL/
 http://jasonli0012.github.io/categories/technology/
 http://jasonli0012.github.io/categories/note/
 http://jasonli0012.github.io/categories/technology/webots/
