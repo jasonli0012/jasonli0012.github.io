@@ -74,6 +74,20 @@
 
   
   <url>
+    <loc>http://jasonli0012.github.io/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BF%E7%9C%9F/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/tags/Webots/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://jasonli0012.github.io/tags/%E6%97%8B%E8%BD%AC%E8%A1%A8%E7%A4%BA%E6%B3%95/</loc>
     <lastmod>2023-04-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -95,20 +109,6 @@
   </url>
   
   <url>
-    <loc>http://jasonli0012.github.io/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BF%E7%9C%9F/</loc>
-    <lastmod>2023-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonli0012.github.io/tags/Webots/</loc>
-    <lastmod>2023-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://jasonli0012.github.io/tags/RL/</loc>
     <lastmod>2023-04-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,13 +118,6 @@
 
   
   <url>
-    <loc>http://jasonli0012.github.io/categories/note/</loc>
-    <lastmod>2023-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://jasonli0012.github.io/categories/technology/</loc>
     <lastmod>2023-04-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -132,7 +125,7 @@
   </url>
   
   <url>
-    <loc>http://jasonli0012.github.io/categories/note/math/</loc>
+    <loc>http://jasonli0012.github.io/categories/note/</loc>
     <lastmod>2023-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -140,6 +133,13 @@
   
   <url>
     <loc>http://jasonli0012.github.io/categories/technology/webots/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonli0012.github.io/categories/note/math/</loc>
     <lastmod>2023-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
