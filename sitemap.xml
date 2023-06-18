@@ -88,6 +88,13 @@
   </url>
   
   <url>
+    <loc>http://jasonli0012.github.io/tags/RL/</loc>
+    <lastmod>2023-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://jasonli0012.github.io/tags/%E6%97%8B%E8%BD%AC%E8%A1%A8%E7%A4%BA%E6%B3%95/</loc>
     <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -103,13 +110,6 @@
   
   <url>
     <loc>http://jasonli0012.github.io/tags/%E7%BE%A4%E8%AE%BA/</loc>
-    <lastmod>2023-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonli0012.github.io/tags/RL/</loc>
     <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
